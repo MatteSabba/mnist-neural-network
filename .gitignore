@@ -1,0 +1,15 @@
+# Virtual environment e IDE
+.venv/
+.idea/
+__pycache__/
+
+# Dataset grezzo (scaricato automaticamente da dataset.py)
+mnist.npz
+
+# File di teoria
+Giorno*.md
+Giorno 1 - Forward Pass.md
+Giorno 2 - Backpropagation.md
+Giorno 3 - Training Loop.md
+Giorno 4 - Ingegneria del Software.md
+Giorno 5 - Inferenza in Produzione.md
